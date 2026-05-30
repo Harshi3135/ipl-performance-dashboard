@@ -1,4 +1,3 @@
-# ipl-performance-dashboard
 # 🏏 IPL Performance Dashboard 2008–2020
 
 ## Dashboard Preview
